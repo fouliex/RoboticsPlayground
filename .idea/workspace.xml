@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf2f561c-9343-4500-b849-529fd09a96bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Robotics.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/colorThreshold.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/test.py" afterPath="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/readingInColorImage.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim.exe" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim.exe" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/Assembly-CSharp-firstpass.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/Assembly-CSharp-firstpass.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/Assembly-CSharp.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/Assembly-UnityScript.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/Assembly-UnityScript.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/Mono.Security.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/Mono.Security.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/System.Core.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/System.Core.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/System.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/System.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/UnityEngine.Networking.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/UnityEngine.Networking.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/UnityEngine.UI.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/UnityEngine.UI.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/UnityEngine.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/UnityEngine.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/UnityEngine.dll.mdb" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/UnityEngine.dll.mdb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Managed/mscorlib.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Managed/mscorlib.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/MonoPosixHelper.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/MonoPosixHelper.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/1.0/machine.config" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/1.0/machine.config" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/2.0/machine.config" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/2.0/machine.config" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/2.0/settings.map" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/2.0/settings.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/2.0/web.config" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/2.0/web.config" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/browscap.ini" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/browscap.ini" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/config" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/config" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/etc/mono/mconfig/config.xml" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/etc/mono/mconfig/config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Mono/mono.dll" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Mono/mono.dll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Resources/unity default resources" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Resources/unity default resources" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/Resources/unity_builtin_extra" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/Resources/unity_builtin_extra" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/ScreenSelector.bmp" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/ScreenSelector.bmp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/app.info" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/app.info" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/globalgamemanagers" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/globalgamemanagers" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/globalgamemanagers.assets" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/globalgamemanagers.assets" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/level0" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/level0" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/output_log.txt" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/output_log.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/resources.assets" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/resources.assets" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/resources.assets.resS" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/resources.assets.resS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/sharedassets0.assets" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/sharedassets0.assets" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/Roversim_Data/sharedassets0.assets.resS" afterPath="$PROJECT_DIR$/WindowsRoverSim/Roversim_Data/sharedassets0.assets.resS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/__MACOSX/._Roversim.exe" afterPath="$PROJECT_DIR$/WindowsRoverSim/__MACOSX/._Roversim.exe" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/WidnowsRoversim/__MACOSX/._Roversim_Data" afterPath="$PROJECT_DIR$/WindowsRoverSim/__MACOSX/._Roversim_Data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/.idea/workspace.xml" afterPath="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="readingInColorImage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/readingInColorImage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colorThreshold.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/colorThreshold.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/readingInColorImage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchAndSampleReturn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Robotics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchAndSampleReturn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PerceptionStep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.readingInColorImage">
+    <configuration default="false" name="reading" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Robotics" />
+      <option name="SCRIPT_NAME" value="C:\Robotics\SearchAndSampleReturn\PerceptionStep\colorThreshold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="readingInColorImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Robotics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/readingInColorImage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Robotics" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Robotics" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Robotics" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Robotics" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.reading" />
+      <item index="1" class="java.lang.String" itemvalue="Python.readingInColorImage" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.readingInColorImage" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reading" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf2f561c-9343-4500-b849-529fd09a96bc" name="Default" comment="" />
+      <created>1495772950977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495772950977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/colorThreshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/colorThreshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchAndSampleReturn/PerceptionStep/readingInColorImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
