@@ -26,4 +26,14 @@ if __name__ == '__main__':
     base_x = 0
     base_y = 0
     # Plot the links
-    #plt.plot([base_x,joint1_x,p2_x],[base_y,jo])
+    plt.plot([base_x, joint1_x, p2_x], [base_y, joint1_y, p2_y])
+    # Plot the bas as a blue square
+    plt.plot(base_x, base_y, 'bs', markersize=15, label='Base')
+    # Plot Joint-1 as a red circle
+    plt.plot(joint1_x, joint1_y, 'ro', markersize=15, label="Joint-1")
+    # Plot End Effector as a green triangle
+    plt.plot(p2_x, p2_y, 'g^', markersize=15, label="End Effector")
+    plt.xlim(-100, 100)
+    plt.ylim(-100, 100)
+    plt.legend(fontsize=15)
+    plt.show()
